@@ -2,8 +2,5 @@ Rohini P S
 Bangalore
 Arisglobal
 Manual Testing
-<<<<<<< HEAD
 Senior Consultant
 hbchdsbcdhsb
-=======
->>>>>>> parent of d99e1f2 (added profession)
